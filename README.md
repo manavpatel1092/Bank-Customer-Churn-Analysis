@@ -7,13 +7,13 @@ Repeat customers:
 
 However, maintaining your relationship with loyal customers can be tricky.These relationships need to be maintained with a consistent and rewarding customer experience. When your customers are happy, your business will prosper.
 
-## What is Churn ? 
+### What is Churn ? 
 Customers that have churned are customers that have cut ties with a business or brand.
 
-## What is Churn Rate used for ? 
+### What is Churn Rate used for ? 
 Churn rate is a measurement of the health of your business.
 
-# Problem Statement
+## Problem Statement
 The bank has been seeing unusual churn rates for their customers. They want to understand the problem for this unusual high churn rates. Here we have been provided with a sample of their, last six months customers whose charecteristics like:
 - credit score
 - geography
